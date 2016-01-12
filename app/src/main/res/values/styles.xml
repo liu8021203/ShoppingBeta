@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>'
+
+    <style name="BaseTheme" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+
+    <style name="CustomDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item> <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item> <!-- 半透明 -->
+        <item name="android:background">@android:color/transparent</item> <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item> <!-- 背景透明 -->
+    </style>
+
+    <style name="CustomShareDialog" parent="CustomDialog">
+        <item name="android:windowAnimationStyle">@style/BottomShow</item>
+    </style>
+
+    <style name="BottomShow">
+        <item name="android:windowEnterAnimation">@anim/share_slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/share_slide_out_from_bottom</item>
+    </style>
+
+</resources>
