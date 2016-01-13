@@ -3,4 +3,14 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <!-- 分类-->
+    <string name="sucai_fruit">蔬菜水果</string>
+    <string name="meat_eggs">肉禽蛋品</string>
+    <string name="sea_food">水产海鲜</string>
+    <string name="half_goods">水产海鲜</string>
+    <string name="mother_children">母婴童</string>
+    <string name="food_grain_oil">粮油副食</string>
+    <string name="snack_food">休闲食品</string>
+    <string name="drink_wather">酒水茶饮</string>
+    <!-- 分类-->
 </resources>

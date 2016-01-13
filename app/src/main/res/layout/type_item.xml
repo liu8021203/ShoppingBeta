@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp100"
+        android:background="@drawable/type_itme_bg">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/dp14"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp16"
+                android:text="佳沛奇异果"
+                android:textColor="@color/black"
+                android:textSize="@dimen/px28" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp4"
+                android:text="柔软甜蜜"
+                android:textColor="@color/c5c5c5c"
+                android:textSize="@dimen/px24" />
+
+            <ImageView
+                android:layout_width="@dimen/dp59"
+                android:layout_height="@dimen/dp35"
+                android:layout_marginTop="@dimen/dp6"
+                android:background="@color/cc2d817" />
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="@dimen/dp59"
+            android:layout_height="@dimen/dp59"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="@dimen/dp10"
+            android:background="@color/cc2d817" />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

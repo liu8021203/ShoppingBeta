@@ -106,6 +106,87 @@
     <dimen name="dp98">98dip</dimen>
     <dimen name="dp99">99dip</dimen>
     <dimen name="dp100">100dip</dimen>
+    <!-- 自定义字号-根据720分辨率计算的 -->
+    <!--  12px  -->
+    <dimen name="px12">6.0sp</dimen>
+    <!--  13px  -->
+    <dimen name="px13">6.5sp</dimen>
+    <!--  14px  -->
+    <dimen name="px14">7.0sp</dimen>
+    <!--  15px  -->
+    <dimen name="px15">7.5sp</dimen>
+    <!--  16px  -->
+    <dimen name="px16">8.0sp</dimen>
+    <!--  17px  -->
+    <dimen name="px17">8.5sp</dimen>
+    <!--  18px  -->
+    <dimen name="px18">9.0sp</dimen>
+    <!--  19px  -->
+    <dimen name="px19">9.5sp</dimen>
+    <!--  20px  -->
+    <dimen name="px20">10.0sp</dimen>
+    <!--  21px  -->
+    <dimen name="px21">10.5sp</dimen>
+    <!--  22px  -->
+    <dimen name="px22">11.0sp</dimen>
+    <!--  23px  -->
+    <dimen name="px23">11.5sp</dimen>
+    <!--  24px  -->
+    <dimen name="px24">12.0sp</dimen>
+    <!--  25px  -->
+    <dimen name="px25">12.5sp</dimen>
+    <!--  26px  -->
+    <dimen name="px26">13.0sp</dimen>
+    <!--  27px  -->
+    <dimen name="px27">13.5sp</dimen>
+    <!--  28px  -->
+    <dimen name="px28">14.0sp</dimen>
+    <!--  29px  -->
+    <dimen name="px29">14.5sp</dimen>
+    <!--  30px  -->
+    <dimen name="px30">15.0sp</dimen>
+    <!--  31px  -->
+    <dimen name="px31">15.5sp</dimen>
+    <!--  32px  -->
+    <dimen name="px32">16.0sp</dimen>
+    <!--  33px  -->
+    <dimen name="px33">16.5sp</dimen>
+    <!--  34px  -->
+    <dimen name="px34">17.0sp</dimen>
+    <!--  35px  -->
+    <dimen name="px35">17.5sp</dimen>
+    <!--  36px  -->
+    <dimen name="px36">18.0sp</dimen>
+    <!--  37px  -->
+    <dimen name="px37">18.5sp</dimen>
+    <!--  38px  -->
+    <dimen name="px38">19.0sp</dimen>
+    <!--  39px  -->
+    <dimen name="px39">19.5sp</dimen>
+    <!--  40px  -->
+    <dimen name="px40">20.0sp</dimen>
+    <!--  41px  -->
+    <dimen name="px41">20.5sp</dimen>
+    <!--  42px  -->
+    <dimen name="px42">21.0sp</dimen>
+    <!--  43px  -->
+    <dimen name="px43">21.5sp</dimen>
+    <!--  44px  -->
+    <dimen name="px44">22.0sp</dimen>
+    <!--  45px  -->
+    <dimen name="px45">22.5sp</dimen>
+    <!--  46px  -->
+    <dimen name="px46">23.0sp</dimen>
+    <!--  47px  -->
+    <dimen name="px47">23.5sp</dimen>
+    <!--  48px  -->
+    <dimen name="px48">24.0sp</dimen>
+    <!--  49px  -->
+    <dimen name="px49">24.5sp</dimen>
+    <!--  50px  -->
+    <dimen name="px50">25.0sp</dimen>
+
+
 
 
 
