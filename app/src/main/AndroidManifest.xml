@@ -28,11 +28,7 @@
         <activity
             android:name=".welcome.WelcomeActivity"
             android:label="@string/app_name" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 
 
@@ -43,7 +39,13 @@
         <activity android:name=".home.HomeActivtiy"
             android:screenOrientation="portrait"
             android:launchMode="singleTask"
-            android:theme="@style/BaseTheme"></activity>
+            android:theme="@style/BaseTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
 
         <activity android:name=".TestActivity"

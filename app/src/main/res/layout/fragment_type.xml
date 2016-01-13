@@ -31,6 +31,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/sucai_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/sucai_type" />
@@ -52,6 +53,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/dan_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/dan_type" />
@@ -73,6 +75,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/shuican_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/shuican_type" />
@@ -94,6 +97,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/banchen_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/banchen_type" />
@@ -123,6 +127,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/children_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/children_type" />
@@ -144,6 +149,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/liangyou_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/liangyou_type" />
@@ -165,6 +171,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/xiuxian_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/xiuxian_type" />
@@ -186,6 +193,7 @@
             android:orientation="vertical">
 
             <ImageView
+                android:id="@+id/jiushui_type"
                 android:layout_width="@dimen/dp45"
                 android:layout_height="@dimen/dp45"
                 android:src="@mipmap/jiushui_type" />
@@ -204,7 +212,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="@dimen/dp13"
-        android:background="@color/cf5f5f5">
+        android:background="@color/cf5f5f5"
+        >
 
         <LinearLayout
             android:id="@+id/type_layout"
