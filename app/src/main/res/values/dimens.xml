@@ -106,6 +106,7 @@
     <dimen name="dp98">98dip</dimen>
     <dimen name="dp99">99dip</dimen>
     <dimen name="dp100">100dip</dimen>
+    <dimen name="dp170">170dip</dimen>
     <!-- 自定义字号-根据720分辨率计算的 -->
     <!--  12px  -->
     <dimen name="px12">6.0sp</dimen>
