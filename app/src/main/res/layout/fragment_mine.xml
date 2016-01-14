@@ -22,6 +22,10 @@
         android:layout_height="@dimen/dp170"
         android:background="@mipmap/mine_background">
 
+
+
+
+        
     </RelativeLayout>
 
 </LinearLayout>

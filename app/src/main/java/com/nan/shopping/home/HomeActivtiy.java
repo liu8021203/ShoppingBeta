@@ -6,7 +6,6 @@ import android.os.Message;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.view.View;
-import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -69,6 +68,7 @@ public class HomeActivtiy extends BaseActivity implements View.OnClickListener {
         manager = getSupportFragmentManager();
         init();
         setTabSelection(0);
+        System.out.print("fengge");
     }
 
     private void init() {
